@@ -1,5 +1,5 @@
 {
-  "name": "support",
+  "name": "concise-support",
   "devDependencies": {
     "lerna": "^4.0.0"
   },
