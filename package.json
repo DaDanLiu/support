@@ -10,8 +10,5 @@
   "keywords": [],
   "author": "DaDanLiu",
   "license": "MIT",
-  "description": "",
-  "publishConfig": {
-    "access": "public"
-  }
+  "description": ""
 }

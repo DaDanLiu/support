@@ -12,5 +12,8 @@
   "author": "DaDanLiu",
   "license": "MIT",
   "description": "",
-  "gitHead": "df0e6afd7d529665fab83a6dd4a19104f0bd13c7"
+  "gitHead": "605c29d10309cd2e496e84ce54b916502155daa1",
+  "publishConfig": {
+    "access": "public"
+  }
 }
