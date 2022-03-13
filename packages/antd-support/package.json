@@ -1,7 +1,7 @@
 {
   "name": "@concise-support/antd",
   "version": "0.0.7",
-  "main": "index.js",
+  "main": "./src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,14 @@
   "gitHead": "c4ab26bf41e40c8039fefd0797298769410bd12b",
   "publishConfig": {
     "access": "public"
+  },
+  "peerDependencies": {
+    "antd": "^4.19.1",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/antd": "^1.0.0",
+    "@types/react": "^17.0.40",
+    "typescript": "^4.6.2"
   }
 }
