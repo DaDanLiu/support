@@ -1,0 +1,15 @@
+{
+  "name": "@concise-support/antd",
+  "version": "0.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "4.17.21"
+  },
+  "keywords": [],
+  "author": "DaDanLiu",
+  "license": "MIT",
+  "description": ""
+}
