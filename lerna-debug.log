@@ -1,0 +1,11 @@
+31 error Error: Command failed with exit code 1: git add -- packages/module2/package.json packages/module2/package-lock.json packages/module1/package.json packages/module1/package-lock.json lerna.json
+31 error The following paths are ignored by one of your .gitignore files:
+31 error packages/module1/package-lock.json
+31 error packages/module2/package-lock.json
+31 error hint: Use -f if you really want to add them.
+31 error hint: Turn this message off by running
+31 error hint: "git config advice.addIgnoredFile false"
+31 error     at makeError (/Users/liuxing/.nvm/versions/node/v14.17.0/lib/node_modules/lerna/node_modules/execa/lib/error.js:60:11)
+31 error     at handlePromise (/Users/liuxing/.nvm/versions/node/v14.17.0/lib/node_modules/lerna/node_modules/execa/index.js:118:26)
+31 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+31 error     at async Promise.all (index 0)

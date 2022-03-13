@@ -3,7 +3,6 @@ node_modules
 .DS_Store
 npm-debug.log
 .idea
-package-lock.json
 # yarn.lock
 /code/logs
 .vscode
