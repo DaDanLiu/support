@@ -1,6 +1,6 @@
 {
   "name": "@concise-support/utils",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
   "author": "DaDanLiu",
   "license": "MIT",
   "description": "",
-  "gitHead": "605c29d10309cd2e496e84ce54b916502155daa1",
+  "gitHead": "c4ab26bf41e40c8039fefd0797298769410bd12b",
   "publishConfig": {
     "access": "public"
   }
